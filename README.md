@@ -12,7 +12,7 @@
 
 ## 🧠 Tecnologias & Ferramentas  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,html,css,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,git,github,vscode,aws,mysql" />
 </p>
 
 ---
@@ -61,8 +61,8 @@
 ---
 
 ## 🧠 Technologies & Tools  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,html,css,git,github,vscode" />
+  <p align="left">
+  <img src="https://skillicons.dev/icons?i=python,html,css,git,github,vscode,aws,mysql" />
 </p>
 
 ---

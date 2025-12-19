@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/siqueiradelimarafaella-boop/PROJETOS-PESSOAIS--PYTHON/blob/main/rafaella_readme.png" alt="Banner Rafaella Siqueira" width="100%">
+  <img src="https://github.com/siqueiradelimarafaella-boop/siqueiradelimarafaella-boop/blob/main/reademe_rafella.png" alt="Banner Rafaella Siqueira" width="100%">
 </p>
 
 # 👩‍💻 Rafaella Siqueira  

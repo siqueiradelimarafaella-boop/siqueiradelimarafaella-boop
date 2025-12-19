@@ -4,7 +4,7 @@
 </p>
 
 # 👩‍💻 Rafaella Siqueira  
-💻 **Desenvolvedora Back-End Python** e **Front-End (HTML/CSS)**  
+💻 **Desenvolvedora Full Stack**  
 🎓 Estudante de **Engenharia da Computação**  
 💜 Apaixonada por tecnologia, automação e design digital.
 
